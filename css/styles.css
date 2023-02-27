@@ -127,11 +127,4 @@ h3{
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     margin:auto;
   }
-  .nav-link{
-    color:#f2f1ec !important;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif !important;
-    font-size: large !important;
-  }
-  .nav-link:hover{
-    color:#41c1ba !important;
-  }
+  
