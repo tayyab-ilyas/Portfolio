@@ -2,6 +2,7 @@ body{
     margin:0;
     text-align:center;
     background-color: #f2f1ec;
+    
 }
 .top-container{
     background-color: #031d35;
@@ -18,10 +19,11 @@ body{
 }
 p{
     line-height: 2;
+    font-family: 'Poppins', sans-serif;
 }
 .footer-link{
     color:#f2f1ec;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: 'Poppins', sans-serif;
     margin:10px 20px;
     text-decoration:none;
 }
@@ -36,14 +38,14 @@ a:hover{
     color:#031d35
 }
 .name{
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: 'Poppins', sans-serif;
     margin: 50px auto 0 auto;
     font-size: 5.625rem;
     color:#f2f1ec;
 }
 .programmer{
     color:#f2f1ec;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: 'Poppins', sans-serif;
     font-size: large;
 
 }
@@ -52,14 +54,16 @@ a:hover{
     text-decoration: none;
 }
 h2{
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: 'League Spartan', sans-serif;
     font-size:2.5rem;
     font-weight: normal ;
     padding:10px;
+    
 }
 h3{
-    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family:'Poppins', sans-serif;
     color:#41c1ba;
+    font-size: 1.5rem;
 }
 .bottom-cloud{
     position:absolute;
@@ -94,7 +98,7 @@ h3{
 .btn {
     background-color: #031d35;
     border-radius: 28px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: 'Poppins', sans-serif;
     color: #ffffff;
     font-size: 20px;
     padding: 10px 20px 10px 20px;
@@ -108,7 +112,7 @@ h3{
   .intro{
     width:30%;
     margin:auto;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: 'Poppins',sans-serif;
   }
   hr{
     border:dotted black;
@@ -118,8 +122,8 @@ h3{
   }
   .contact-message{
     width:40%;
-    margin:40px auto 60px auto;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin:20px auto 40px auto;
+    font-family: 'Poppins', sans-serif;
   }
   .copyright{
     color:#f2f1ec;
@@ -127,11 +131,16 @@ h3{
     padding:20px 0;
   }
   .programming{
-    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: 'Poppins', sans-serif;
     margin:auto;
   }
   .designing{
-    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family:'Poppins', sans-serif;
     margin:auto;
   }
+.projects{
+    padding:10px 0 0 0;
+    font-family: 'Poppins', sans-serif;
+    font-size:1.5em;
+}
   
