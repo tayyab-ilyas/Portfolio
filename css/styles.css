@@ -103,6 +103,7 @@ h3{
     font-size: 20px;
     padding: 10px 20px 10px 20px;
     text-decoration: none;
+    margin-bottom: 0%;
   }
   .btn:hover{
     color:#41c1ba;
@@ -122,7 +123,7 @@ h3{
   }
   .contact-message{
     width:40%;
-    margin:20px auto 40px auto;
+    margin:20px auto 20px auto;
     font-family: 'Poppins', sans-serif;
   }
   .copyright{
