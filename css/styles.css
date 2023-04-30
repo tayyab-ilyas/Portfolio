@@ -16,6 +16,7 @@ body{
 .bottom-container{
     background-color: #031d35;
     padding:50px 0 50px 0;
+    
 }
 p{
     line-height: 2;
@@ -24,7 +25,7 @@ p{
 .footer-link{
     color:#f2f1ec;
     font-family: 'Poppins', sans-serif;
-    margin:10px 20px;
+    margin:0px 20px;
     text-decoration:none;
 }
 a:hover{
